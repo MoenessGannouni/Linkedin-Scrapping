@@ -1,3 +1,3 @@
 - A project focused on web scraping LinkedIn to extract useful data such as profile names, job titles and locations. 
 - This project utilizes Python and libraries like BeautifulSoup and Selenium to automate the scraping process, handle dynamic content, and parse HTML data efficiently. 
-- This data is collected specifically for the **Human Resources**[Link](https://github.com/MoenessGannouni/EnglandWeather) project and will be then analyzed to provide insights into industry trends, job market dynamics, and networking opportunities.
+- This data is collected specifically for the [**Human Resources**](https://github.com/MoenessGannouni/EnglandWeather) project and will be then analyzed to provide insights into industry trends, job market dynamics, and networking opportunities.
